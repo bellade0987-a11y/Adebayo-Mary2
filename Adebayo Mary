@@ -1,0 +1,84 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/bellade0987-a11y/Adebayo-Mary2/blob/main/Adebayo%20Mary\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "TbYowwmPoI6K",
+        "outputId": "d2cae1b1-e4e5-4f4e-952f-b6c3e99b9d56"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "adebayo Mary Iyanuoluwa\n",
+            "<class 'str'>\n",
+            "23\n",
+            "<class 'int'>\n",
+            "economics education\n",
+            "<class 'str'>\n",
+            "226\n",
+            "75.33333333333333\n",
+            "88\n",
+            "60\n"
+          ]
+        }
+      ],
+      "source": [
+        "name= ( \"adebayo Mary Iyanuoluwa\" )\n",
+        "print (name)\n",
+        "print (type(name))\n",
+        "age= 23\n",
+        "print (age)\n",
+        "print (type(age))\n",
+        "department= (\"economics education\")\n",
+        "print (department)\n",
+        "print (type(department))\n",
+        "mathematics= 60\n",
+        "python= 78\n",
+        "statistics= 88\n",
+        "a = mathematics\n",
+        "b= statistics\n",
+        "c = python\n",
+        "print (a+b+c )\n",
+        "d =226\n",
+        "e = d/3\n",
+        "print (e)\n",
+        "f= 88\n",
+        "print (f)\n",
+        "g= 60\n",
+        "print (g)"
+      ]
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyOVYxyr0K+w4d1QkS6YMaJ5",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
